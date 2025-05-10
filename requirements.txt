@@ -1,5 +1,4 @@
 instagrapi
 python-dotenv
 schedule
-shutil
 Pillow>=8.1.1
